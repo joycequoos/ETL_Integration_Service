@@ -49,9 +49,3 @@ ETL é o processo de extração, transformação e carga de dados de várias fon
 
 No geral, o ETL é fundamental no processo de análise de dados: garante dados consistentes, limpos e integrados, prontos para serem explorados e fornece uma base sólida para a tomada de decisões informadas.
 
-## Próximos passos
-
-- Documentar um exemplo prático de pipeline ETL (fonte → transformação → destino).
-- Detalhar as ferramentas utilizadas neste serviço (ex.: Airflow, dbt, Kafka, etc.).
-- Adicionar um diagrama do fluxo de dados entre os sistemas integrados.
-- Descrever a estratégia de tratamento de erros e reprocessamento de dados.
